@@ -1,0 +1,5 @@
+para editar cria uma alias (apelido)
+
+sudo firebase use --add -> depois coloca o nome (coloquei api)
+
+para finalizar coloca -> sudo firebase deploy --project api 
