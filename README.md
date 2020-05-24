@@ -1,6 +1,6 @@
 ## API - NodeJS + Firebase Firestore and Firebase Functions
 
-! [] (img / foto.png)
+![](img/foto.png)
 
 The api has five operations: Create, Read, Update, Delete and DeleteAll, used in databases.
 
@@ -21,7 +21,7 @@ The developer dependency is:
 
 ##### Advised to use insomnia to carry out operations
 
-[API] (https://us-central1-testenodejs-3b9ac.cloudfunctions.net/api/products)
+[API](https://us-central1-testenodejs-3b9ac.cloudfunctions.net/api/products)
 
 > Português: 
 
