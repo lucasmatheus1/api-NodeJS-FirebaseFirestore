@@ -23,6 +23,8 @@ The developer dependency is:
 
 [API](https://us-central1-testenodejs-3b9ac.cloudfunctions.net/api/products)
 
+--------------------------------------------------------------------------------------
+
 > Português: 
 
 ## API - NodeJS + Firebase Firestore e Firebase Functions
